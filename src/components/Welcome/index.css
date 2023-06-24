@@ -1,0 +1,34 @@
+.div {
+  margin: 0px;
+  background-color: #1e293b;
+  height: 100vh;
+  padding: 0px;
+}
+.btn-con {
+  text-align: center;
+}
+
+h1 {
+  font-family: Bree Serif;
+  text-align: center;
+  color: yellow;
+  font-weight: 500px;
+  font-size: 100px;
+}
+p {
+  font-family: Bree Serif;
+  text-align: center;
+  color: white;
+  font-weight: 500px;
+}
+button {
+  min-height: 50px;
+  min-width: 100px;
+  background-color: white;
+  color: #1e293b;
+  border: none;
+  border-radius: 10px;
+}
+.but {
+  font-weight: 800;
+}
